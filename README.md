@@ -9,7 +9,7 @@ of Prof. Ricardo Monteiro.
 Further documentation can be found in the following paper:
 
 Segura, R., Bernier, C., Monteiro, R. and Paultre, P. (2018). “On the Seismic Fragility Assessment of Concrete Gravity Dams in Eastern
-Canada.” Earthquake Spectra (in press).
+Canada.” Earthquake Spectra (under-review).
 
 # References
 
